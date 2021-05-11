@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T00:47:23.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="1BHSUyJ8bqxi3hJsiGgl" version="14.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-11T01:31:28.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="q1cb4Aqa8cCrktsXmT02" version="14.6.6" type="github" pages="6">
   <diagram name="测试环境网络拓扑图" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
     <mxGraphModel dx="1227" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1120,13 +1120,13 @@
           <mxGeometry x="30" y="110" width="1110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DI7lFIv9Uep-63_UEGE2-1" value="Internet Client/Server" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;labelBackgroundColor=none;sketch=0;fontSize=10;fontColor=#000000;" vertex="1" parent="5J2vJgefXby-l3AXopiY-1">
-          <mxGeometry x="80" y="359.9969060302682" width="47.368255395683455" height="33.15777877697842" as="geometry" />
+          <mxGeometry x="30" y="362.8769060302682" width="47.368255395683455" height="33.15777877697842" as="geometry" />
         </mxCell>
         <mxCell id="DI7lFIv9Uep-63_UEGE2-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13.333333015441895px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-decoration: none ; display: inline ; float: none&quot;&gt;100.0.50.100/24&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13.333333015441895px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-decoration: none ; display: inline ; float: none&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="5J2vJgefXby-l3AXopiY-1">
-          <mxGeometry x="55.519999999999996" y="332.88" width="96.32" height="30" as="geometry" />
+          <mxGeometry x="25.519999999999996" y="332.88" width="96.32" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DI7lFIv9Uep-63_UEGE2-51" value="Internet DNS Server" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;labelBackgroundColor=none;sketch=0;fontSize=10;fontColor=#000000;" vertex="1" parent="5J2vJgefXby-l3AXopiY-1">
-          <mxGeometry x="80.00000000000001" y="490.4169060302682" width="47.368255395683455" height="33.15777877697842" as="geometry" />
+          <mxGeometry x="50.000000000000014" y="465.0369060302682" width="47.368255395683455" height="33.15777877697842" as="geometry" />
         </mxCell>
         <mxCell id="DI7lFIv9Uep-63_UEGE2-5" value="CTC&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;100.0.10.254/24&lt;/span&gt;" style="points=[[0,0.64,0],[0.2,0.15,0],[0.4,0.01,0],[0.79,0.25,0],[1,0.65,0],[0.8,0.86,0],[0.41,1,0],[0.16,0.86,0]];verticalLabelPosition=top;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.cloud;strokeColor=none;fillColor=#0000CC;" vertex="1" parent="5J2vJgefXby-l3AXopiY-1">
           <mxGeometry x="189.0507643884892" y="250.00342367828722" width="75.31330122975884" height="45.1879807378553" as="geometry" />
@@ -1239,6 +1239,9 @@
         </mxCell>
         <mxCell id="mBaIbiBr8pg4mKEJcSBE-2" value="ETH0/2:100.0.20.100" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=#FFFFFF;align=center;verticalAlign=middle;fontColor=#000099;rotation=-23.299999999999997;" vertex="1" parent="5J2vJgefXby-l3AXopiY-1">
           <mxGeometry x="312.00235611510794" y="316.10476241210733" width="75.78920863309352" height="37.89476241210727" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaIbiBr8pg4mKEJcSBE-3" value="" style="points=[[0,0.64,0],[0.2,0.15,0],[0.4,0.01,0],[0.79,0.25,0],[1,0.65,0],[0.8,0.86,0],[0.41,1,0],[0.16,0.86,0]];verticalLabelPosition=top;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.cloud;strokeColor=none;fillColor=#0000CC;" vertex="1" parent="5J2vJgefXby-l3AXopiY-1">
+          <mxGeometry x="66.03076438848919" y="417.40342367828725" width="75.31330122975884" height="45.1879807378553" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
