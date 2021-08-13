@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T14:19:43.617Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="F0XltWDPVuABLDAasEU6" version="14.9.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-08-13T14:20:52.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="OA3I5ksgQ5x1exqhzIVo" version="14.9.5" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="安装服务流程">
     <mxGraphModel dx="2015" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1011,6 +1011,24 @@
         </mxCell>
         <mxCell id="nLuhiZEJfcwYkKySSuCs-4" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 0)&quot;&gt;External Vlan&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;strokeWidth=1;fontSize=9;rotation=60;" vertex="1" parent="VjSuESgzkJsQr3cT-Gbj-1">
           <mxGeometry x="377" y="246.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nLuhiZEJfcwYkKySSuCs-5" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 102)&quot;&gt;Server 1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;strokeWidth=1;fontSize=9;rotation=0;" vertex="1" parent="VjSuESgzkJsQr3cT-Gbj-1">
+          <mxGeometry x="546.5" y="419.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nLuhiZEJfcwYkKySSuCs-6" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 102)&quot;&gt;Server 2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;strokeWidth=1;fontSize=9;rotation=0;" vertex="1" parent="VjSuESgzkJsQr3cT-Gbj-1">
+          <mxGeometry x="636.5" y="419.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nLuhiZEJfcwYkKySSuCs-7" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 102)&quot;&gt;Server 3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;strokeWidth=1;fontSize=9;rotation=0;" vertex="1" parent="VjSuESgzkJsQr3cT-Gbj-1">
+          <mxGeometry x="726.5" y="419.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nLuhiZEJfcwYkKySSuCs-8" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 0)&quot;&gt;Client1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;strokeWidth=1;fontSize=9;rotation=0;" vertex="1" parent="VjSuESgzkJsQr3cT-Gbj-1">
+          <mxGeometry x="552" y="163.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nLuhiZEJfcwYkKySSuCs-9" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 0)&quot;&gt;Client2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;strokeWidth=1;fontSize=9;rotation=0;" vertex="1" parent="VjSuESgzkJsQr3cT-Gbj-1">
+          <mxGeometry x="638" y="163.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nLuhiZEJfcwYkKySSuCs-10" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 0)&quot;&gt;Client3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;strokeWidth=1;fontSize=9;rotation=0;" vertex="1" parent="VjSuESgzkJsQr3cT-Gbj-1">
+          <mxGeometry x="728" y="163.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
