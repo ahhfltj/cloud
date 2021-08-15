@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T16:15:15.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="KWSnCshzAn1hdqBnlWdB" version="14.9.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-08-15T16:15:30.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="3NEcpjh9AMAdzPnUgNa6" version="14.9.5" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="安装服务流程">
     <mxGraphModel dx="1135" dy="-57" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -954,12 +954,6 @@
         </mxCell>
         <mxCell id="jbp3QQnG37nVYr-SEOoa-8" value="OSPF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;strokeWidth=1;fontSize=9;fontStyle=1" parent="VjSuESgzkJsQr3cT-Gbj-1" vertex="1">
           <mxGeometry x="145" y="282.5" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jbp3QQnG37nVYr-SEOoa-9" value="10.0.60.0/24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;strokeWidth=1;fontSize=9;" parent="VjSuESgzkJsQr3cT-Gbj-1" vertex="1">
-          <mxGeometry x="328.6" y="163.5" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jbp3QQnG37nVYr-SEOoa-12" value="10.0.60.0/24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;strokeWidth=1;fontSize=9;" parent="VjSuESgzkJsQr3cT-Gbj-1" vertex="1">
-          <mxGeometry x="328.6" y="413.5" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jbp3QQnG37nVYr-SEOoa-13" value="" style="endArrow=none;html=1;strokeWidth=0.5;strokeColor=#666666;" parent="VjSuESgzkJsQr3cT-Gbj-1" source="yPfIlJfejlRTwzf1kCuR-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
