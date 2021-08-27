@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T03:18:02.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="kS98X0ZjIarsf0wE9pMw" version="14.9.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-08-27T03:22:52.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="X8ydBTjJT7LCpXMNNuFD" version="14.9.5" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="安装服务流程">
     <mxGraphModel dx="1964" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -428,7 +428,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="售前支持流程" id="goR8uVMMe_itS2ZgQJrz">
-    <mxGraphModel dx="1375" dy="-57" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1964" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-0" />
         <mxCell id="x8SiiaKzxzC_BAetzHBW-1" parent="x8SiiaKzxzC_BAetzHBW-0" />
@@ -496,7 +496,7 @@
           <mxGeometry x="340" y="1198" width="160" height="84.75" as="geometry" />
         </mxCell>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-23" value="003&lt;br style=&quot;font-size: 17px&quot;&gt;确认需求&lt;br&gt;阐述友商使用情况&lt;br&gt;（如有）" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
-          <mxGeometry x="510" y="1397.3700000000001" width="160" height="84.75" as="geometry" />
+          <mxGeometry x="540" y="1397.3700000000001" width="160" height="84.75" as="geometry" />
         </mxCell>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Helvetica;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-22" target="x8SiiaKzxzC_BAetzHBW-23">
           <mxGeometry x="-592.4510204081632" y="1240.5" width="131.97278911564624" height="100" as="geometry">
@@ -511,7 +511,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-26" value="004&lt;br style=&quot;font-size: 17px&quot;&gt;针对客户痛点问&lt;br&gt;题的解决方案；&lt;br&gt;形成技术竞争策略" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
-          <mxGeometry x="880" y="1185" width="160" height="110.25" as="geometry" />
+          <mxGeometry x="860" y="1185" width="160" height="110.25" as="geometry" />
         </mxCell>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Helvetica;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-23" target="x8SiiaKzxzC_BAetzHBW-26">
           <mxGeometry x="-102.45102040816323" y="1060.5" width="131.97278911564624" height="100" as="geometry">
@@ -535,17 +535,35 @@
         <mxCell id="x8SiiaKzxzC_BAetzHBW-30" value="005&lt;br style=&quot;font-size: 17px&quot;&gt;确认、认可解决方案" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="1020" y="1397.3700000000001" width="160" height="84.75" as="geometry" />
         </mxCell>
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-32" value="006&lt;br style=&quot;font-size: 17px&quot;&gt;整理优势测试方案&lt;br&gt;完成测试并汇报&lt;br&gt;提供招标参数" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
-          <mxGeometry x="1460" y="1397.37" width="160" height="110" as="geometry" />
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-32" value="007&lt;br style=&quot;font-size: 17px&quot;&gt;提供招标参数&lt;br&gt;技术评分标准&lt;br&gt;售后服务要求" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+          <mxGeometry x="1460" y="1075" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-33" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-28" target="x8SiiaKzxzC_BAetzHBW-32">
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-33" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-28" target="x8SiiaKzxzC_BAetzHBW-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1190" y="1449.8" as="sourcePoint" />
-            <mxPoint x="1250" y="1305" as="targetPoint" />
+            <mxPoint x="1540" y="1140" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1540" y="1240" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-34" target="x8SiiaKzxzC_BAetzHBW-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-34" value="008&lt;br style=&quot;font-size: 17px&quot;&gt;撰写技术投标书" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+          <mxGeometry x="1680" y="1220" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-35" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-32" target="x8SiiaKzxzC_BAetzHBW-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1620" y="1095" as="sourcePoint" />
+            <mxPoint x="1840" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1760" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-36" value="009&lt;br style=&quot;font-size: 17px&quot;&gt;项目开标&lt;br&gt;现场讲标" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+          <mxGeometry x="1680" y="1397.37" width="160" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
