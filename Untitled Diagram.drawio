@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T02:58:22.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="FYrc0apWnIflpeMJaYmM" version="14.9.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-08-27T03:09:01.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="WLYVPQztdpT9fbBhTfC7" version="14.9.5" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="安装服务流程">
     <mxGraphModel dx="1964" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -432,7 +432,7 @@
       <root>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-0" />
         <mxCell id="x8SiiaKzxzC_BAetzHBW-1" parent="x8SiiaKzxzC_BAetzHBW-0" />
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-2" value="售后安装实施流程图" style="fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-2" value="弘积科技售前支持流程图" style="fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="154" y="850.5" width="1786" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-3" value="销售" style="fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
@@ -477,25 +477,25 @@
         <mxCell id="x8SiiaKzxzC_BAetzHBW-16" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;strokeWidth=1;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-17" target="x8SiiaKzxzC_BAetzHBW-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-17" value="001&lt;br style=&quot;font-size: 17px;&quot;&gt;发起安装需求" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-17" value="001&lt;br style=&quot;font-size: 17px&quot;&gt;发起售前交流需求" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="340" y="990" width="160" height="84.75" as="geometry" />
         </mxCell>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-18" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="244" y="890.5" width="1696" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-19" value="需求调研" style="fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-18">
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-19" value="前期" style="fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-18">
           <mxGeometry width="565.9990981373193" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-20" value="安装实施" style="fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-18">
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-20" value="中期" style="fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-18">
           <mxGeometry x="565.9990981373193" width="565.9990981373193" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-21" value="验收" style="fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-18">
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-21" value="后期" style="fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-18">
           <mxGeometry x="1132" width="564" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-22" value="002&lt;br style=&quot;font-size: 17px&quot;&gt;使用《项目需求调研&lt;br&gt;表》与用户确认需求&lt;br&gt;和环境" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-22" value="002&lt;br&gt;详细了解客户现状、&lt;br&gt;需求和痛点" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="340" y="1198" width="160" height="84.75" as="geometry" />
         </mxCell>
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-23" value="004&lt;br style=&quot;font-size: 17px&quot;&gt;安装环境确认" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-23" value="003&lt;br style=&quot;font-size: 17px&quot;&gt;确认需求&lt;br&gt;阐述友商使用情况&lt;br&gt;（如有）" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="510" y="1397.3700000000001" width="160" height="84.75" as="geometry" />
         </mxCell>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Helvetica;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-22" target="x8SiiaKzxzC_BAetzHBW-23">
@@ -510,8 +510,8 @@
         <mxCell id="x8SiiaKzxzC_BAetzHBW-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;strokeWidth=1;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-26" target="x8SiiaKzxzC_BAetzHBW-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-26" value="005&lt;br style=&quot;font-size: 17px&quot;&gt;验货&lt;br&gt;安装&lt;br&gt;调试&lt;br&gt;测试&lt;br&gt;培训" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
-          <mxGeometry x="1020" y="1156" width="160" height="170" as="geometry" />
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-26" value="004&lt;br style=&quot;font-size: 17px&quot;&gt;针对客户痛点问&lt;br&gt;题的解决方案；&lt;br&gt;形成技术竞争策略" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+          <mxGeometry x="880" y="1185" width="160" height="110.25" as="geometry" />
         </mxCell>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Helvetica;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-23" target="x8SiiaKzxzC_BAetzHBW-26">
           <mxGeometry x="-102.45102040816323" y="1060.5" width="131.97278911564624" height="100" as="geometry">
