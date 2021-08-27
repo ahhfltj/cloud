@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T03:22:52.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="X8ydBTjJT7LCpXMNNuFD" version="14.9.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-08-27T03:48:44.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="gQi0NTOg71fIQKgD-wQ9" version="14.9.5" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="安装服务流程">
     <mxGraphModel dx="1964" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -522,7 +522,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x8SiiaKzxzC_BAetzHBW-28" value="006&lt;br style=&quot;font-size: 17px&quot;&gt;整理优势测试方案&lt;br&gt;完成测试并汇报&lt;br&gt;提供招标参数" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+        <mxCell id="x8SiiaKzxzC_BAetzHBW-28" value="006&lt;br style=&quot;font-size: 17px&quot;&gt;整理优势测试方案&lt;br&gt;完成测试并汇报" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;fontSize=17;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="1160" y="1185" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="x8SiiaKzxzC_BAetzHBW-29" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;strokeWidth=1;" edge="1" parent="x8SiiaKzxzC_BAetzHBW-1" source="x8SiiaKzxzC_BAetzHBW-30" target="x8SiiaKzxzC_BAetzHBW-28">
