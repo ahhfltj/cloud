@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T12:14:34.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="pdyctLcWhLZaSKoP2et-" version="15.5.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-25T12:17:46.401Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="u-B6lYAJjzTZw6s_SNbg" version="15.5.9" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="安装服务流程">
     <mxGraphModel dx="1058" dy="-97" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -535,13 +535,13 @@
         <mxCell id="J-AFegItDh9-LfZEt2f8-0" value="输入/输出" style="fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="154" y="1539.5" width="90" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="J-AFegItDh9-LfZEt2f8-1" value="《需求调研表》" style="fontSize=18;strokeWidth=1;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+        <mxCell id="J-AFegItDh9-LfZEt2f8-1" value="客户联系方式&lt;br&gt;客户现状&lt;br&gt;《需求调研表》" style="fontSize=18;strokeWidth=1;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="244" y="1539.5" width="566" height="199.5" as="geometry" />
         </mxCell>
         <mxCell id="J-AFegItDh9-LfZEt2f8-2" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt ; text-indent: 10pt ; text-align: justify ; line-height: 24px ; font-family: &amp;#34;cambria&amp;#34; ; font-size: medium&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; text-align: center ; text-indent: 0px&quot;&gt;《产品测试方案》、《产品测试报告》&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="fontSize=18;strokeWidth=1;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="810" y="1539.5" width="566" height="199.5" as="geometry" />
         </mxCell>
-        <mxCell id="J-AFegItDh9-LfZEt2f8-3" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;《招标参数》、《投标书技术部分》、&lt;/span&gt;" style="fontSize=18;strokeWidth=1;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
+        <mxCell id="J-AFegItDh9-LfZEt2f8-3" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;《招标参数/评分标准》、《投标书技术部分》、&lt;br&gt;《投标书》、《讲标PPT》&lt;/span&gt;" style="fontSize=18;strokeWidth=1;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="x8SiiaKzxzC_BAetzHBW-1">
           <mxGeometry x="1376" y="1539.5" width="564" height="199.5" as="geometry" />
         </mxCell>
       </root>
